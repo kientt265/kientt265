@@ -1,25 +1,37 @@
 # Hi there 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!  
+I'm passionate about **Web3** and building innovative applications.
 
-## About Me
+---
 
-- 🔭 I’m currently working on exciting projects.
-- 🌱 I’m always learning new technologies.
-- 💬 Ask me about coding, web3, blockchain, and more!
+## 🚀 About Me
 
-## Skills
+- 🔭 Currently working on exciting **blockchain** & **Web3** projects.
+- 🌱 Always learning new technologies and improving my skills.
+- 💬 Ask me about **coding**, **Web3**, **blockchain**, and more!
 
-- Programming: JavaScript, TypeScript, Rust, Solidity, etc.
-- Frameworks: Nodejs, Reactjs, Foundry, Anchor
-- Tools: VS Code, Git, Docker
+---
 
-## GitHub Stats
+## 🛠 Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kientt265&layout=compact&theme=default)
+- **Programming:** JavaScript, TypeScript, Rust, Solidity
+- **Frameworks:** Node.js, React.js, Foundry, Anchor
+- **Tools:** VS Code, Git, Docker
 
-## Connect with Me
+---
 
-- Email: kientran26503@gmail.com
+## 📊 GitHub Stats
 
-*Thanks for visiting!*
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kientt265&layout=compact&theme=default) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kientt265&show_icons=true&count_private=true) |
+| --- | --- |
+
+---
+
+## 📬 Connect with Me
+
+- 📧 Email: **kientran26503@gmail.com**
+
+---
+
+⭐ *Thanks for visiting!*
