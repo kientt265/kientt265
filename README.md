@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kientt265/kientt265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on exciting projects.
+- 🌱 I’m always learning new technologies.
+- 💬 Ask me about coding, web3, blockchain, and more!
+
+## Skills
+
+- Programming: JavaScript, TypeScript, Rust, Solidity, etc.
+- Frameworks: Nodejs, Reactjs, Foundry, Anchor
+- Tools: VS Code, Git, Docker
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kientt265&layout=compact&theme=default)
+
+## Connect with Me
+
+- Email: kientran26503@gmail.com
+
+*Thanks for visiting!*
