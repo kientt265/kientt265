@@ -13,18 +13,18 @@ I'm passionate about **Web3** and building innovative applications.
 
 ---
 
+## 📊 GitHub Stats
+
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kientt265&layout=compact&theme=default) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kientt265&show_icons=true&count_private=true) |
+| --- | --- |
+
+---
+
 ## 🛠 Skills
 
 - **Programming:** JavaScript, TypeScript, Rust, Solidity
 - **Frameworks:** Node.js, React.js, Foundry, Anchor
 - **Tools:** VS Code, Git, Docker
-
----
-
-## 📊 GitHub Stats
-
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kientt265&layout=compact&theme=default) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kientt265&show_icons=true&count_private=true) |
-| --- | --- |
 
 ---
 
